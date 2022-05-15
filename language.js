@@ -1,18 +1,18 @@
 export default {
     translation: {
       Login: {
-        Title: "Login to continue",
-        Username_or_Email: "Username or Email",
-        Password: "Password",
-        Login_Button: "Login",
-        Forgot_Password: "Forgot password?",
-        Username_or_Email_Desc: "A username or email must be provided.",
-        Account_Password_Desc: "Please enter your account password.",
-        Account_Incorrect: "No account matching those credentials could be found.",
-        Many_Attempts: "There were too many login attempts. Please try again later.",
-        Recaptcha_Error: "Failed to validate reCAPTCHA data.",
-        Request_Failed: "Request failed with status code 404",
-        CSRF_Token: "CSRF token mismatch."
+        Title: "Devam etmek için giriş yapın",
+        Username_or_Email: "Kullanıcı adı veya e-Posta",
+        Password: "Şifre",
+        Login_Button: "Oturum aç",
+        Forgot_Password: "Şifrenizi mi unuttunuz?",
+        Username_or_Email_Desc: "Bir kullanıcı adı veya e-posta sağlanmalıdır.",
+        Account_Password_Desc: "Lütfen hesap şifrenizi giriniz.",
+        Account_Incorrect: "Bu kimlik bilgileriyle eşleşen hesap bulunamadı.",
+        Many_Attempts: "Çok fazla giriş denemesi yapıldı. Lütfen daha sonra tekrar deneyin.",
+        Recaptcha_Error: "reCAPTCHA verileri doğrulanamadı.",
+        Request_Failed: "404 durum koduyla istek başarısız oldu",
+        CSRF_Token: "CSRF belirteci uyuşmazlığı."
       },
       Reset_Password: {
         Password_Reset: "Request Password Reset",
